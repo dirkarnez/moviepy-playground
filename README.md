@@ -1,5 +1,5 @@
-python-playground
-=================
+moviepy-playground
+==================
 [Zulko/moviepy: Video editing with Python](https://github.com/Zulko/moviepy)
 
 ### Prerequisites
